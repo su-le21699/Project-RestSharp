@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\model\\request\\deletebookresquestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\model\\request\\deletebookresquestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\model\\request\\getuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\model\\request\\getuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\model\\request\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\model\\request\\addbookrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\testcases\\addbooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\testcases\\addbooktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\model\\response\\addbookresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\model\\response\\addbookresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\testdata\\users\\user_info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\testdata\\users\\user_info.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\testdata\\book\\book.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\testdata\\book\\book.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\dataobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\dataobjects\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\testcases\\getusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\testcases\\getusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\dataprovider\\bookprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\dataprovider\\bookprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\dataprovider\\userprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\dataprovider\\userprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\apiconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\apiconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE9A3D4-74B4-48E1-9852-8F4FC621FA0A}|Core\\Core.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DE9A3D4-74B4-48E1-9852-8F4FC621FA0A}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\dataobjects\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\dataobjects\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.test\\testcases\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DA3B9E-330D-44B2-80B0-7285462CBC94}|DemoQA.Test\\DemoQA.Test.csproj|solutionrelative:demoqa.test\\testcases\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DE9A3D4-74B4-48E1-9852-8F4FC621FA0A}|Core\\Core.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\core\\datahelper\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DE9A3D4-74B4-48E1-9852-8F4FC621FA0A}|Core\\Core.csproj|solutionrelative:core\\datahelper\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|d:\\nashtech\\autotest\\api\\demoqarestsharp\\demoqa.service\\demoqa.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{545BE4EC-4757-4278-A1E1-F220359F1A3F}|DemoQA.Service\\DemoQA.Service.csproj|solutionrelative:demoqa.service\\demoqa.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteBookResquestDto.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Request\\DeleteBookResquestDto.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\Model\\Request\\DeleteBookResquestDto.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Request\\DeleteBookResquestDto.cs",
+              "RelativeToolTip": "DemoQA.Service\\Model\\Request\\DeleteBookResquestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:28:21.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddBookTest.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestCases\\AddBookTest.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\TestCases\\AddBookTest.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestCases\\AddBookTest.cs",
+              "RelativeToolTip": "DemoQA.Test\\TestCases\\AddBookTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:35:56.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\Services\\BookServices.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Services\\BookServices.cs",
+              "RelativeToolTip": "DemoQA.Service\\Services\\BookServices.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:26:56.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUserRequestDto.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Request\\GetUserRequestDto.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\Model\\Request\\GetUserRequestDto.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Request\\GetUserRequestDto.cs",
+              "RelativeToolTip": "DemoQA.Service\\Model\\Request\\GetUserRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:21:54.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBookResponeDto.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Response\\AddBookResponeDto.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\Model\\Response\\AddBookResponeDto.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Response\\AddBookResponeDto.cs",
+              "RelativeToolTip": "DemoQA.Service\\Model\\Response\\AddBookResponeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:08:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBookRequestDto.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Request\\AddBookRequestDto.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\Model\\Request\\AddBookRequestDto.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Model\\Request\\AddBookRequestDto.cs",
+              "RelativeToolTip": "DemoQA.Service\\Model\\Request\\AddBookRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:06:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "user_info.json",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestData\\Users\\user_info.json",
+              "RelativeDocumentMoniker": "DemoQA.Test\\TestData\\Users\\user_info.json",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestData\\Users\\user_info.json",
+              "RelativeToolTip": "DemoQA.Test\\TestData\\Users\\user_info.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T01:31:49.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataObjects\\BookDto.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\DataObjects\\BookDto.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataObjects\\BookDto.cs",
+              "RelativeToolTip": "DemoQA.Test\\DataObjects\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:48:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserTest.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestCases\\GetUserTest.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\TestCases\\GetUserTest.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestCases\\GetUserTest.cs",
+              "RelativeToolTip": "DemoQA.Test\\TestCases\\GetUserTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:35:18.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "book.json",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestData\\Book\\book.json",
+              "RelativeDocumentMoniker": "DemoQA.Test\\TestData\\Book\\book.json",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestData\\Book\\book.json",
+              "RelativeToolTip": "DemoQA.Test\\TestData\\Book\\book.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T04:42:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookProvider.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataProvider\\BookProvider.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\DataProvider\\BookProvider.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataProvider\\BookProvider.cs",
+              "RelativeToolTip": "DemoQA.Test\\DataProvider\\BookProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:49:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\Services\\UserServices.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\Services\\UserServices.cs",
+              "RelativeToolTip": "DemoQA.Service\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:43:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestCases\\BaseTest.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\TestCases\\BaseTest.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\TestCases\\BaseTest.cs",
+              "RelativeToolTip": "DemoQA.Test\\TestCases\\BaseTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:35:57.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProvider.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataProvider\\UserProvider.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\DataProvider\\UserProvider.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataProvider\\UserProvider.cs",
+              "RelativeToolTip": "DemoQA.Test\\DataProvider\\UserProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:08:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "APIConstant.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\APIConstant.cs",
+              "RelativeDocumentMoniker": "DemoQA.Service\\APIConstant.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\APIConstant.cs",
+              "RelativeToolTip": "DemoQA.Service\\APIConstant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:39:21.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Core",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T06:09:43.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\Core\\DataHelper\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Core\\DataHelper\\DataProvider.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\Core\\DataHelper\\DataProvider.cs",
+              "RelativeToolTip": "Core\\DataHelper\\DataProvider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:45:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DemoQA.Service.csproj",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\DemoQA.Service.csproj",
+              "RelativeDocumentMoniker": "DemoQA.Service\\DemoQA.Service.csproj",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Service\\DemoQA.Service.csproj",
+              "RelativeToolTip": "DemoQA.Service\\DemoQA.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T04:42:46.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataObjects\\UserDto.cs",
+              "RelativeDocumentMoniker": "DemoQA.Test\\DataObjects\\UserDto.cs",
+              "ToolTip": "D:\\NashTech\\Autotest\\API\\DemoQARestSharp\\DemoQA.Test\\DataObjects\\UserDto.cs",
+              "RelativeToolTip": "DemoQA.Test\\DataObjects\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:33:23.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
